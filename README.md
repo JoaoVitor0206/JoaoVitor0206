@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoaoVitor0206
 - 👀 I’m interested in web development/mobile/operational systems
-- 🌱 I’m currently learning Java/Python
+- 🌱 I’m currently learning Java/DB
 - 📫 How to reach me Email: jvrs3759@gmail.com
 
 <!---
