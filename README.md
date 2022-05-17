@@ -1,3 +1,4 @@
+##
 - 👋 Hi, I’m @JoaoVitor0206
 - 👀 I’m interested in web development/mobile/operational systems
 - 🌱 I’m currently learning Java/DB
@@ -5,6 +6,7 @@
 <div align="center">
   <a href="https://github.com/JoaoVitor0206">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoVitor0206&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitor0206&layout=compact&langs_count=3&theme=dark"/>
 </div>
   
   <div style="display: inline_block"><br>
