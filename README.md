@@ -1,5 +1,5 @@
 ##
-Hello, my name is João Vitor, technology lover and student programmer
+*Hello, my name is João Vitor, technology lover and student programmer*
 <div align="center">
   <a href="https://github.com/JoaoVitor0206">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoVitor0206&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
