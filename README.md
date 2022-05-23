@@ -1,6 +1,6 @@
 ##
 - 👋 Hi, I’m @JoaoVitor0206
-- 👀 I’m interested in web development/mobile/operational systems
+- 👀 I’m interested in web development/mobile
 - 🌱 I’m currently learning Java/DB
 
 <div align="center">
